@@ -1,7 +1,7 @@
 vector<int> Solution::flip(string A) {
    int diff =0;
    int l = 0;
-   int max_diff = INT_MIN;
+   int max_diff = 0;
    int r = 0;
    int left =0;
    int flag = 0;
